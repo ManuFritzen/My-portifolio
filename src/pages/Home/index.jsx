@@ -19,9 +19,16 @@ function Home() {
         conhecimento amplo para me tornar uma Full Stack diferenciada.</h3>
       </Text>
 
-      <ButtonMessage>        
+      <ButtonMessage>
+        <a>
+          <span id="span1"></span>
+          <span id="span2"></span>
+          <span id="span3"></span>
+          <span id="span4"></span>
           <img src={IconEmailPink} alt="Email" />
-          <h2>Bora fazer uma parceria??</h2>        
+          <h2>Bora fazer uma parceria??</h2>
+          <h3>Me mande um e-mail</h3>
+        </a>        
       </ButtonMessage>
 
     </Container>
